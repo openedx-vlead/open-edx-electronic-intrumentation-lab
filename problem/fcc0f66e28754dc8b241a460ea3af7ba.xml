@@ -1,0 +1,23 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1) The unit of Electric Field Intensity is&lt;&lt;&#10;(x) Volts per meter&#10;( ) Farad&#10;( ) Ampere per meter&#10;( ) none&#10;&#10;&gt;&gt;2) The Induced current I is proportional to&lt;&lt;&#10;( ) 1/v&#10;( ) L&#10;(x) V&#10;( ) 1/L">
+<p>1) The unit of Electric Field Intensity is</p>
+<multiplechoiceresponse>
+  <choicegroup label="1) The unit of Electric Field Intensity is" type="MultipleChoice">
+    <choice correct="true">Volts per meter</choice>
+    <choice correct="false">Farad</choice>
+    <choice correct="false">Ampere per meter</choice>
+    <choice correct="false">none</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) The Induced current I is proportional to</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) The Induced current I is proportional to" type="MultipleChoice">
+    <choice correct="false">1/v</choice>
+    <choice correct="false">L</choice>
+    <choice correct="true">V</choice>
+    <choice correct="false">1/L</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
