@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1)The RTDs, which provide high accuracy and stability -&lt;&lt;&#10;(x) Platinum&#10;( ) Copper&#10;( ) Nickel&#10;( ) Iron&#10;&#10;&gt;&gt;2) RTDs are typically connected with other fixed resistors-&lt;&lt;&#10;( ) In a pi configuration&#10;(x) In a bridge configuration&#10;( ) And variable resistors&#10;( ) And capacitor in a filter-type circuit&#10;&#10;&gt;&gt;3) What device is similar to an RTD but has a negative temperature coefficient ?&lt;&lt;&#10;( ) Strain gauge&#10;( ) negative-type RTD&#10;(x) Thermistor&#10;( ) Thermocouple&#10;&#10;&gt;&gt;4)Temperature sensing can be achieved by use of-&lt;&lt;&#10;( ) Thermocouple&#10;( ) RTDs&#10;( ) Thermistor&#10;(x) All of the above&#10;&#10;&gt;&gt;5) Which one of the following has the highest accuracy in temperature measurement ?&lt;&lt;&#10;(x) RTD&#10;( ) Thermocouple&#10;( ) Thermistor&#10;( ) Thermometer">
+<p>1)The RTDs, which provide high accuracy and stability -</p>
+<multiplechoiceresponse>
+  <choicegroup label="1)The RTDs, which provide high accuracy and stability -" type="MultipleChoice">
+    <choice correct="true">Platinum</choice>
+    <choice correct="false">Copper</choice>
+    <choice correct="false">Nickel</choice>
+    <choice correct="false">Iron</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) RTDs are typically connected with other fixed resistors-</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) RTDs are typically connected with other fixed resistors-" type="MultipleChoice">
+    <choice correct="false">In a pi configuration</choice>
+    <choice correct="true">In a bridge configuration</choice>
+    <choice correct="false">And variable resistors</choice>
+    <choice correct="false">And capacitor in a filter-type circuit</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) What device is similar to an RTD but has a negative temperature coefficient ?</p>
+<multiplechoiceresponse>
+  <choicegroup label="3) What device is similar to an RTD but has a negative temperature coefficient ?" type="MultipleChoice">
+    <choice correct="false">Strain gauge</choice>
+    <choice correct="false">negative-type RTD</choice>
+    <choice correct="true">Thermistor</choice>
+    <choice correct="false">Thermocouple</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4)Temperature sensing can be achieved by use of-</p>
+<multiplechoiceresponse>
+  <choicegroup label="4)Temperature sensing can be achieved by use of-" type="MultipleChoice">
+    <choice correct="false">Thermocouple</choice>
+    <choice correct="false">RTDs</choice>
+    <choice correct="false">Thermistor</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Which one of the following has the highest accuracy in temperature measurement ?</p>
+<multiplechoiceresponse>
+  <choicegroup label="5) Which one of the following has the highest accuracy in temperature measurement ?" type="MultipleChoice">
+    <choice correct="true">RTD</choice>
+    <choice correct="false">Thermocouple</choice>
+    <choice correct="false">Thermistor</choice>
+    <choice correct="false">Thermometer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
