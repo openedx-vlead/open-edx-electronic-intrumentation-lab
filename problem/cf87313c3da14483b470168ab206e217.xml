@@ -1,23 +1,20 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1) What value of zeta in a second order system gives the shortest settling time in the step response?&lt;&lt;&#10;( ) 0&#10;(x) 1&#10;( ) 0.707&#10;( ) 1.414&#10;&#10;&gt;&gt;2) What value of zeta in a second order system gives the widest flat bandwidth in the frequency response?&lt;&lt;&#10;( ) 0&#10;( ) 1&#10;(x) 0.707&#10;( ) 1.414 ">
-<p>1) What value of zeta in a second order system gives the shortest settling time in the step response?</p>
-<multiplechoiceresponse>
-  <choicegroup label="1) What value of zeta in a second order system gives the shortest settling time in the step response?" type="MultipleChoice">
-    <choice correct="false">0</choice>
-    <choice correct="true">1</choice>
-    <choice correct="false">0.707</choice>
-    <choice correct="false">1.414</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) What value of zeta in a second order system gives the widest flat bandwidth in the frequency response?</p>
-<multiplechoiceresponse>
-  <choicegroup label="2) What value of zeta in a second order system gives the widest flat bandwidth in the frequency response?" type="MultipleChoice">
-    <choice correct="false">0</choice>
-    <choice correct="false">1</choice>
-    <choice correct="true">0.707</choice>
-    <choice correct="false">1.414</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1) What value of zeta in a second order system gives the shortest settling time in the step response?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1) What value of zeta in a second order system gives the shortest settling time in the step response?" type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="true">1</choice>
+      <choice correct="false">0.707</choice>
+      <choice correct="false">1.414</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) What value of zeta in a second order system gives the widest flat bandwidth in the frequency response?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) What value of zeta in a second order system gives the widest flat bandwidth in the frequency response?" type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="false">1</choice>
+      <choice correct="true">0.707</choice>
+      <choice correct="false">1.414</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
